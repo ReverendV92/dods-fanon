@@ -1,0 +1,25 @@
+Junkers Motoren 211 and SC 250 bomb.
+
+This .zip contains 2 models (prop_static): 
+
+* Jumo 211 engine:
+- split in 2 models: top and bottom. To assemble in Hammer, create one, select it, edit/copy it and then edit/paste special (1 copy, start at center of original). This will permit the 2 models to be properly assembled; select them both before further  moving/rotating them;
+- texture 1024*1024 each;
+- normal map (512*512) for the top portion;
+- 3538 tris at LOD0, 2070 at LOD30, and 1267 at LOD50.
+
+* SC 250 bomb:
+- texture 512*512;
+- 930 tris at LOD0, 426 at LOD30.
+
+Also included are objective icons depicting the Jumo from the side.
+
+Additional notes: 
+
+The Jumo 211 equipped many bombers of the Luftwaffe, perhaps most notably the Ju 87 "Stuka". Nearly 70,000 units were produced.
+The SC 250 was a 250 kg (550 lbs) general purpose bomb, suspended either vertically or horizontally. It was carried by many aircraft in the Luftwaffe, from the Stuka to heavier bombers, to the Fw 190 and the Messerschmitt 109.
+
+
+Author: Cpt Ukulele
+theuke2@gmail.com
+I can  also be reached via PM at http://www.dod-federation.com http://www.dayofdefeat.net/forums/index.php and http://www.powdod.com

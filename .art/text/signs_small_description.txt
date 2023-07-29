@@ -1,0 +1,20 @@
+This .zip contains 13 models of miscellaneous signs, all prop_physics:
+
+* signs_small_kriegslaz
+* signs_small_symbol
+* signs_small_vs
+* signs_small_hv
+* signs_small_27
+* signs_small_hoh
+* signs_small_9p
+* signs_small_akp
+* signs_small_trv
+* signs_small_feldlaz
+* signs_small_platzk
+* signs_small_glnorm
+* signs_small_feldg
+
+All models call to a unique 512*512 texture (no normal map). They break into the Valve default wooden sign gibs.
+
+Author: Cpt Ukulele
+theuke2@gmail.com

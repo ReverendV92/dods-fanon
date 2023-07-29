@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+"$alphatest" 1
+"$baseTexture" "models/cherokemodels/palmy/BananaTree_02"
+"$bumpmap" "models/cherokemodels/palmy/BananaTree_02DOT3"
+"$surfaceprop" "wood"
+"$model" 1
+}

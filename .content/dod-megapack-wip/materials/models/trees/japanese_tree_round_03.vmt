@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/trees/japanese_tree_round_03"
+	$alphatest 1
+	"$nocull" 1
+}

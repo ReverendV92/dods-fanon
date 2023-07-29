@@ -1,0 +1,8 @@
+- stack_fueldrums: 4276 tris to 820 (3 LODs)
+
+- stack_fueldrums_side: 1 256x256 texture (43 Kb). 2596 tris to 356 (3 LODs)
+
+Combines Valve's textures and models. Can only be used in DoD:S.
+
+Author: Cpt Ukulele
+theuke2@gmail.com

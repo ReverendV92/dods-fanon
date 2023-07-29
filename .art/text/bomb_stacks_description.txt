@@ -1,0 +1,15 @@
+Bomb stacks.
+
+Modeled after Luftwaffe SC 250 bombs.
+
+This .zip contains 3 models (prop_static): 
+
+* bomb_stack_1
+* bomb_stack_2
+* bomb_stack_3
+
+Each stack is about 1600 tris at LOD0 and 770 tris at LOD1 (30 meters) and uses a 512*512 texture (no normal map).
+
+Author: Cpt Ukulele
+theuke2@gmail.com
+I can  also be reached via PM at http://www.dod-federation.com http://www.dayofdefeat.net/forums/index.php and http://www.powdod.com

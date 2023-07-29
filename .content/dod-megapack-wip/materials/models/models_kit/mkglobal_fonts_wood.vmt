@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/models_kit/mkglobal_fonts_wood"
+	"$bumpmap" "models/models_kit/mkglobal_fonts_wood_NORM"
+}

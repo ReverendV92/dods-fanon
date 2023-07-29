@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{ 
+
+	$basetexture models/props_vehicles/citroen/citroen_interior
+
+	$halflambert 1
+	$surfaceprop carpet
+
+} 

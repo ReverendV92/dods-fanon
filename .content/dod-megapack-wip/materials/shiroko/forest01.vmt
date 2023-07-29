@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "shiroko/forest01"
+	"%keywords" "cstrike"
+	"$surfaceprop" "foliage"
+	// "$bumpmap" "shiroko/forest01bump"
+}

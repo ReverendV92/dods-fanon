@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/ussr/zis/ussr_zis_kyzov
+	$bumpmap models/props_vehicles/ussr/zis/ussr_zis_kyzov_normal
+
+	$nocull 1
+	$halflambert 1
+	
+}

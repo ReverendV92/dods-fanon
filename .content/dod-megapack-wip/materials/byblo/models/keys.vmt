@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "byblo/models/keys"
+	"$surfaceprop" "metal"
+	$phong			1
+	$bumpmap		"byblo/models/keys_b"
+	$phongboost		3.0
+	$phongfresnelranges	"[1 0.5 1]"
+}

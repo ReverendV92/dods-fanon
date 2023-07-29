@@ -1,0 +1,5 @@
+This is a skin replacement! It's mandatory that you zip it into your map's
+bsp file with pakrat (http://www.geocities.com/cofrdrbob/pakrat.html) or
+BSPZIP (http://developer.valvesoftware.com/wiki/Bspzip).
+This way the skin replacement only applies to your map and not other custom
+maps which may use the green version.

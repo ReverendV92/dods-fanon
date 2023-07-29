@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{ 
+
+	$basetexture models/props_vehicles/citroen/citroen_van_snow_green1
+
+	$halflambert 1
+	$surfaceprop metal
+
+} 

@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "shiroko/ot_grass01"
+	"$basetexture2" "shiroko/ot_dirt01"
+	"$bumpmap" "shiroko/ot_grass01normal"
+	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	"%detailtype" "shiroko_grass_light"
+	"%keywords" "jungle"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "dirt"
+}

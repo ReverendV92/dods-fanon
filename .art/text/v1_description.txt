@@ -1,0 +1,21 @@
+Model name(s):
+v1_start_group.mdl
+v1_start_group_destroyed.mdl
+v1_start_group_destroyed_gib1.mdl
+v1_start_group_destroyed_gib2.mdl
+v1_start_group_destroyed_gib3.mdl
+v1_launch_cart.mdl
+v1_launch_cart_destroyed.mdl
+v1_launch_cart_destroyed_gib1.mdl
+v1_launch_cart_destroyed_gib2.mdl
+v1_launch_cart_destroyed_gib3.mdl
+
+Path:
+dod\models\ukulele\props_v1_flying_bomb
+
+Credits:
+Cpt Ukulele - www.theuke.net - theuke2@gmail.com
+
+Notes:
+Most models feature LODs. Some are static, other physics models.
+This is an updated version, with new textures and new models, of the pack already available in the models section at DoD federation  http://www.dod-federation.com. 

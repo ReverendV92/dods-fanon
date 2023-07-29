@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_exteriors/fountain/fountain_snow
+
+	$halflambert 1
+	$surfaceprop rock
+
+}

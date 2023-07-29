@@ -1,0 +1,13 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/ussr/is-2/ussr_is-2
+	$bumpmap models/props_vehicles/ussr/is-2/ussr_is-2_normal
+
+	$alphatest 1
+	$nocull 1
+
+	$halflambert 1
+
+}

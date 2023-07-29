@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/moroes/powerpole/powerpole_on"
+//	"$alphatest" 1
+	"$nocull" 1	
+//	"$additive" 1
+//	"$translucent" 1
+	"$model" 1
+}

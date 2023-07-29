@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/models_kit/doublebed"
+	"$alphatest" "1"
+	"$bumpmap" "models/models_kit/doublebed_NORM"
+}

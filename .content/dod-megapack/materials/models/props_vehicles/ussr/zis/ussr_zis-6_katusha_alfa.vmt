@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/ussr/zis/ussr_zis-6_katusha_alfa
+	
+	$translucent 1
+	$halflambert 1
+
+}

@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fortifications/lg40/lg40_ammochest_diffuse
+
+	$translucent 0
+	$alpha 1
+
+}

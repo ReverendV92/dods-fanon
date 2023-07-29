@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/usa/cckw/cckw
+	$bumpmap models/props_vehicles/usa/cckw/cckw_normal
+
+	$surfaceprop metal
+	$halflambert 1
+
+}

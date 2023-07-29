@@ -1,0 +1,15 @@
+Model name(s):
+inset_windowframe_large1_broken_unbroken.mdl
+inset_windowframe_large1_broken_noshutter.mdl
+inset_windowframe_large1_broken_slicebig.mdl
+inset_windowframe_large1_broken_slicesmall.mdl
+
+Path:
+dod\models\props_windows
+
+Credits:
+Valve for the original model(s) and texture(s)
+Cpt Ukulele - www.theuke.net - theuke2@gmail.com
+
+Notes:
+Some slight modifications that may come in handy for mappers - for instance so you can make brush shutters with custom materials and easily introduce some visual variety.

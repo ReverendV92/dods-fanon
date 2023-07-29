@@ -1,0 +1,4 @@
+1 model (2 LODs), texture 512x256 (2 skins).
+
+Author: Cpt Ukulele
+theuke2@gmail.com

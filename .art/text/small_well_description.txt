@@ -1,0 +1,9 @@
+ models (prop_static) of a small rustic well.
+
+- well (2 skins, normal and snow)
+- well (normal skin) with some grass around it
+
+Texture 1024x512 (256^2 for the grass). 940 tris (630 at LOD1).
+
+Author: Cpt Ukulele
+theuke2@gmail.com

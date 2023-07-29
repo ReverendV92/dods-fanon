@@ -1,0 +1,5 @@
+Model of a fountain: 2330 tris at LOD0, down to 430 tris at LOD2; 2 skins (diffuse 1024^2). Objective icons included.
+
+Author: Cpt Ukulele
+www.theuke.net
+theuke2@gmail.com

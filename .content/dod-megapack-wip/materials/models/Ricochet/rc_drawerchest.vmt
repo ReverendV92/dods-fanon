@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/rc_drawerchest"
+	"$model"	1
+	"$surfaceprop" "wood"
+
+
+}
+
+

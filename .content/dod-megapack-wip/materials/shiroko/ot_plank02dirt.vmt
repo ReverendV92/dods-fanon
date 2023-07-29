@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "shiroko/ot_plank02dirt"
+	"%keywords" "cstrike"
+	"$surfaceprop" "wood"
+	"$bumpmap" "shiroko/ot_plank02normal"
+}

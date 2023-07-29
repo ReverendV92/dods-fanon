@@ -1,0 +1,12 @@
+
+vertexlitgeneric
+{ 
+
+	// $basetexture models/surgeon/blitzdesert
+	$basetexture models/props_vehicles/german/opelblitz/blitzdesert
+
+	$surfaceprop metal
+	$nocull 1
+	$halflambert 1
+
+} 

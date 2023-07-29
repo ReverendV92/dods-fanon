@@ -1,0 +1,16 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/german/tram/r_tram1a
+
+	$halflambert 1
+	$surfaceprop glass
+	$translucent 1
+
+	$detail models/props_vehicles/german/tram/r_tram1_detail
+	$detailscale 1
+	$detailblendfactor 1.18
+	$detailblendmode 0
+
+}

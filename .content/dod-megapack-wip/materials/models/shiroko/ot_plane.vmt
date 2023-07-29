@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+     "$baseTexture" "shiroko/ot_plane"
+     "$envmap" "env_cubemap"
+    // "$bumpmap" "shiroko/ammocratenormal"
+     // "$normalmapalphaenvmapmask" 1
+     // "$envmapcontrast" 1
+     "$model" 1
+	"$surfaceprop" "metal"
+     // "$selfillum" 1
+	 "$envmaptint" "[.1 .1 .1]"
+}

@@ -1,0 +1,24 @@
+Waldos notes...
+
+There is a whole set of trench wall modules. 
+The trenches include both various L, T and X patterns and also include some sections that descend for changing terrain.
+
+)))))))))))))))))))))
+
+INsanes Note: there was a problem with three models in this set, they had missing materials...
+
+models/props_fortifications/trench_high_zigstraight_512.mdl
+models/props_fortifications/trench_high_zigy_512.mdl
+models/props_fortifications/trench_high_zigzag_512.mdl
+
+I have found them and they are different in the .MDL file, now added the missing textures in this download...
+dod\materials\models\trench
+
+All other trench walls use...
+dod\materials\models\props_fortifications
+
+Please credit Waldo if you use.
+
+Cheers
+
+INsane

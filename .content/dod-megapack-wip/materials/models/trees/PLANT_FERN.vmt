@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/trees/PLANT_FERN"
+	$alphatest 1
+	"$nocull" 1
+}

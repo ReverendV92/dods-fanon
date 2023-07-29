@@ -1,0 +1,14 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_misc/small_well/small_well_grass
+
+	$halflambert 1
+	$surfaceprop rock
+
+	$nocull 1
+	//$translucent 1
+	$alphatest	1
+
+}

@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{ 
+
+	$basetexture models/props_fortifications/mortar34/mortarshell
+
+	$surfaceprop metalpanel
+	$halflambert 1
+
+} 

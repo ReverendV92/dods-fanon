@@ -1,0 +1,12 @@
+Model name(s):
+radio.mdl
+antenna.mdl
+antenna_destroyed.mdl
+antenna_destroyed_gib1.mdl
+antenna_destroyed_gib2.mdl
+
+Path:
+dod\models\ukulele\props_radio
+
+Credits:
+Cpt Ukulele - theuke2@gmail.com - www.theuke.net

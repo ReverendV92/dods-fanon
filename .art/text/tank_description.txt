@@ -1,0 +1,11 @@
+Model name(s):
+horizontalcoolingtank04_destroyed.mdl
+horizontalcoolingtank04_destroyed_gib1.mdl
+horizontalcoolingtank04_destroyed_gib2.mdl
+
+Path:
+dod\models\props_wasteland
+
+Credits:
+Valve for the original model(s) and texture(s)
+Cpt Ukulele

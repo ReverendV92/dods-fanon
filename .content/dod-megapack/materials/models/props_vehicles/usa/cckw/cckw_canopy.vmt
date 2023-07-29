@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/usa/cckw/cckw_canopy
+	$bumpmap models/props_vehicles/usa/cckw/cckw_canopy_normal
+
+	$surfaceprop carpet
+	$halflambert 1
+
+}

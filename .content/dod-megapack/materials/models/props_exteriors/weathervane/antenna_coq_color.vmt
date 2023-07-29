@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_exteriors/weathervane/antenna_coq_color
+
+	$translucent 1
+	$alphatest 1
+
+}

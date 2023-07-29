@@ -1,0 +1,9 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "shiroko/ot_grass01"
+	"$bumpmap" "shiroko/ot_grass01normal"
+	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	// "%detailtype" "shiroko_grass"
+	"%keywords" "jungle"
+	"$surfaceprop" "grass"
+}

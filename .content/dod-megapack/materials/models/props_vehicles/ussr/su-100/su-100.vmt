@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/ussr/su-100/su-100
+	$bumpmap models/props_vehicles/ussr/su-100/su-100_normal
+	$nocull 1
+	$halflambert 1
+
+}

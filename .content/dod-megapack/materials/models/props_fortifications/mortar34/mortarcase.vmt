@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{ 
+
+	$basetexture models/props_fortifications/mortar34/mortarcase
+
+	$surfaceprop metal
+	$halflambert 1
+	$nocull 1
+
+} 

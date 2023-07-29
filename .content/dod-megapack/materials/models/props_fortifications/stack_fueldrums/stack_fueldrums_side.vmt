@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fortifications/stack_fueldrums/stack_fueldrums_side
+
+	$surfaceprop wood
+	$halflambert 1
+
+}

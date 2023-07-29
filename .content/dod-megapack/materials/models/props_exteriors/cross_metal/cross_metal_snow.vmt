@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_exteriors/cross_metal/cross_metal_snow
+
+	$surfaceprop metalpanel
+	$halflambert 1
+
+}

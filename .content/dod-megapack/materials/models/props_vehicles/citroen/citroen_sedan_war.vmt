@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{ 
+
+	$basetexture models/props_vehicles/citroen/citroen_sedan_war
+
+	$halflambert 1
+	$surfaceprop metal
+
+} 

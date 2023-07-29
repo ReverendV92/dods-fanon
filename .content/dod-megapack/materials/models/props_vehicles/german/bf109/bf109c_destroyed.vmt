@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/german/bf109/bf109c_destroyed
+
+	$translucent 1
+	$surfaceprop glass
+	$halflambert 1
+
+}

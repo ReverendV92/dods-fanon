@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fields/haystack/haystack_color_a_snow
+
+	$surfaceprop grass
+	$halflambert 1	
+
+}

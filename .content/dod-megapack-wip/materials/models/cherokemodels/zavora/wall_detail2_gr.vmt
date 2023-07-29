@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+"$alphatest" 1
+	"$baseTexture" "models/cherokemodels/zavora/wall_detail2_gr"
+"$surfaceprop" "wood"
+"$model" 1
+
+}

@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fields/haystack/haystack_skybox
+
+	$surfaceprop grass
+	$halflambert 1	
+
+}

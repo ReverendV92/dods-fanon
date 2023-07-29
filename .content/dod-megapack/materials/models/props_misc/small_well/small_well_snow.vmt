@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_misc/small_well/small_well_snow
+
+	$halflambert 1
+	$surfaceprop rock
+
+}

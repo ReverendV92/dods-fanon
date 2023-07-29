@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/cherokemodels/palmy/st2/leafy"
+"$translucent" 1
+}

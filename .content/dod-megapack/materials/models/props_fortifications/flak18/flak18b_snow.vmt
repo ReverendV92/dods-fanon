@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fortifications/flak18/flak18b_snow
+
+	$surfaceprop metal
+	$halflambert 1
+
+}

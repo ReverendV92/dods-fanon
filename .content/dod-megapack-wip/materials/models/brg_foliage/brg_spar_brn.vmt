@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/brg_foliage/brg_spar_brn"
+	"$alphatest" 1
+	"$nocull" 1
+	"$model" 1
+	"$nodecal" 1
+}

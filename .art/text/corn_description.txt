@@ -1,0 +1,17 @@
+Model name(s):
+corn_down_256_200.mdl
+corn_x1.mdl
+corn_96_200.mdl
+corn_128_400.mdl
+corn_256_400.mdl
+corn_512_400.mdl
+
+Path:
+dod\models\ukulele\props_plants
+
+Credits:
+Cpt Ukulele - theuke2@gmail.com - www.theuke.net
+Kane - kane1st@hotmail.com
+
+Note:
+Many thanks to Pedroleum for the handy tip on vertex normals to obtain a uniform lighting.

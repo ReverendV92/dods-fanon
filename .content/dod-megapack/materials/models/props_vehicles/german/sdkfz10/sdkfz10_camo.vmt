@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/german/sdkfz10/sdkfz10_camo
+
+	$halflambert 1
+	$surfaceprop metal 
+	$alphatest 1
+
+}

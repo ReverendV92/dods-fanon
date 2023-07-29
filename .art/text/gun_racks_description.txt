@@ -1,0 +1,15 @@
+Model name(s):
+gun_rack_axis.mdl
+gun_rack_axis_empty.mdl
+gun_rack_axis_empty_grippy.mdl
+gun_rack_axis_grippy.mdl
+gun_rack_allies.mdl
+gun_rack_allies_double.mdl
+
+Path:
+dod\models\ukulele\props_misc
+
+Credits:
+Valve for the original model(s) and texture(s) -> can only be used in DoD:S
+Cpt Ukulele - www.theuke.net - theuke2@gmail.com
+Grippy for the modified texture (for the "_grippy" models) - grippy@live.fr

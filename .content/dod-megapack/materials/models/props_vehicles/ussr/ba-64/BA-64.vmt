@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/ussr/ba-64/ba-64
+
+	$surfaceprop solidmetal
+	$nocull	1
+
+}

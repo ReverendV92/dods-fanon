@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "byblo/models/bed2"
+	"$surfaceprop" "metal"
+	$phong			1
+	$bumpmap		"byblo/models/bed2_b"
+	//$phongexponent		10		// either/or
+	//$phongexponenttexture	<texture>	// either/or
+	$phongboost		3.0
+	$phongfresnelranges	"[1 0.1 0.4]"
+}

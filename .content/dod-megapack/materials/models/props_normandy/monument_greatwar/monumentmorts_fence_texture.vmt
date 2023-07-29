@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_normandy/monument_greatwar/monumentmorts_fence_texture
+
+	$halflambert 1
+	$surfaceprop rock
+
+}

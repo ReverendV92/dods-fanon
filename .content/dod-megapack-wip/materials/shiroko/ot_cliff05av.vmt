@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "shiroko/ot_cliff05av"
+	"%keywords" "cstrike"
+	"$surfaceprop" "rock"
+	"$bumpmap" "shiroko/ot_cliff05anormal"
+}

@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/german/stug/stug_tank_gray
+	$bumpmap models/props_vehicles/german/stug/stug_tank_normal
+
+	$halflambert 1
+	$surfaceprop metal
+
+}

@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fortifications/gun_rack/gun_rack_axis
+
+	$surfaceprop wood
+	$halflambert 1
+
+}

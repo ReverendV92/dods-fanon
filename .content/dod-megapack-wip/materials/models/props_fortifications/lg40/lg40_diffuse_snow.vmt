@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_fortifications/lg40/lg40_diffuse_snow
+
+	$translucent 0
+	$alpha 1
+
+}

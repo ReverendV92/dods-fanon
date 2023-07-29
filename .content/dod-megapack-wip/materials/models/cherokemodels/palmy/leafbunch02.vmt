@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$translucent" 1
+	"$baseTexture" "models/cherokemodels/palmy/leafbunch02"
+"$surfaceprop" "wood"
+}

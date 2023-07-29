@@ -1,0 +1,12 @@
+
+vertexlitgeneric
+{ 
+
+	// $basetexture models/surgeon/blitzgrey
+	$basetexture models/props_vehicles/german/opelblitz/blitzgrey
+
+	$surfaceprop glass
+	$translucent 1
+	$halflambert 1
+
+} 

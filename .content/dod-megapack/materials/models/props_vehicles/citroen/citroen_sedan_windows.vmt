@@ -1,0 +1,12 @@
+
+vertexlitgeneric
+{ 
+
+	$basetexture models/props_vehicles/citroen/citroen_sedan
+
+	$halflambert 1
+	$surfaceprop glass
+	$nocull 1
+	$translucent 1
+
+} 

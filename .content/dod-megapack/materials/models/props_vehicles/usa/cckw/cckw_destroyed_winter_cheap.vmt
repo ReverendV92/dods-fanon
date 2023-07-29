@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/usa/cckw/cckw_destroyed_winter_low
+
+	$surfaceprop metal
+	$alphatest 1
+
+}

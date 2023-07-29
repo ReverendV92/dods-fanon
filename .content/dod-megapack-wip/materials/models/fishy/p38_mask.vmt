@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{	
+	$baseTexture "models/fishy/p38_mask"
+	//"$translucent" 1
+	//$surfaceprop "metal"
+	//"$envmap" "env_cubemap"
+	//"$model" 1
+	//"$selfillum" 1
+	//"$envmapmask" "models/fishy/UNTITLED-3_MASK"
+	//"$bumpmap" "models/fishy/body_blue_normal"
+	//"$mostlyopaque" 1
+}

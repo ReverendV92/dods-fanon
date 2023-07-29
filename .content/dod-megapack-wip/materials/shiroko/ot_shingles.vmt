@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "shiroko/ot_shingles"
+	"%keywords" "cstrike"
+	"$surfaceprop" "wood"
+	"$bumpmap" "shiroko/ot_shinglesnormal"
+}

@@ -1,0 +1,79 @@
+_______________________________________________________________________________
+
+##TextureHub extract info##
+_______________________________________________________________________________
+
+Storefront1.rar contains 1 shopfront model and 4 skins,
+skins can be changed in hammer model veiwer.
+
+To install, point to your day of defeat source folder and extract.
+
+Make shure that you have 'use folder names' marked in your extract program.
+The materials will be extracted to dod\materials\models\props
+and the models to dod\models\props.
+These folders will be created if they don't excist allready.
+
+Text on the skins are in French
+and indicate the following:
+01 - Bakery
+02 - Restaurant
+03 - Cornershop
+04 - Hardware
+
+Make something sweet!
+
+Cheers 
+spine
+
+
+Model by Bluestrike (www.bluestrike.be)
+Skins by spine (www.texturehub.net - spine@texturehub.net)
+Remember your credits. ;)
+
+All textures are ©spine and www.TextureHub.net
+_______________________________________________________________________________
+
+##FAQ Terms of use##
+_______________________________________________________________________________
+ 
+Q:Can I use what I download at TextureHub.net anyway I like?
+
+A:Basically yes, you can do what you like with the graphics.
+Theres just a few things you have to keep in mind:
+Respect the original artists wishes.
+Any edits of what you download is to be considered the original artists work.
+You can not put your name on it as long as other artists work is the base of your work.
+
+
+Q:Can I use what I download at TextureHub.net in my mod/map?
+
+A:Feel free to use the textures/models in the downloads section in any free mod/map project.
+Read the induvidual artists "readme" txt file and credit the artist of the work you are using.
+
+
+Q:What if I make money on something containing work from TextureHub.net?
+
+A:If you want to use something from TextureHub.net in a commercial project, 
+get in touch with the artist who made it or contact admin'at'texturehub.net
+We will put you in touch with the right artist or artists.
+Remember most artists want their work to go public so there should be no problems.
+There will be a problem though if work is used without the artist consent.
+
+
+Q:Can I change the adress on the vmt textures?
+
+A:Yes, change vmt adresses at will but keep texture names, as these sometimes contain
+artists initials and are a sort of signature on their work.
+
+
+Q:Ok, so all I need to do on a free project is to credit the artist?
+
+A:Yes, if the artist does not have any specific wishes in his "readme" file, thats it.
+It's simple and easy realy, oh and if you are a sweetie you will add www.texturehub.net
+somewhere, or dump this txt in your materials folder. :D
+
+This Creative Commons License apply on all downloads unless stated otherwise by the artist. 
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Thanks for reading.
+_______________________________________________________________________________

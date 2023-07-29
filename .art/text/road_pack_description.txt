@@ -1,0 +1,19 @@
+This .zip contains 12 models, mostly prop_static (the few prop_physics are identified in the image and in the following list):
+
+* milestone_1
+* milestone_2
+* milestone_3
+* sign_kommandantur (prop_physics)
+* sign_africa
+* sentry_box
+* gate_closed
+* gate_open
+* gate_crashed1
+* gate_crashed2 (prop_physics)
+* gate_crashed2_static
+* gate_crashed3 (prop_physics)
+
+512*512 textures are used, except for the sentry box which is 1024*1024; no normal maps. Milestone_2, sign_kommandantur and sign_africa each come with 2 skins (different texts). Low-poly counts, the highest being the sign_africa with 934 tris (down to 498 at LOD1_35 meters).
+
+Author: Cpt Ukulele
+theuke2@gmail.com

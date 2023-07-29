@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shiroko/ot_win3"
+	"$bumpmap" "shiroko/ot_win1normal"
+	// "$envmap" "env_cubemap"
+	// "$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "glass"
+}

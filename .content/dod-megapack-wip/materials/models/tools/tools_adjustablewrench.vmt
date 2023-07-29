@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tools/tools_adjustablewrench"
+	"$surfaceprop" "Metal"
+	"$model" 1
+}

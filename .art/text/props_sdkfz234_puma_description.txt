@@ -1,0 +1,41 @@
+Sd.Kfz.234/2 Puma, a German eight-wheel drive armored car.
+
+
+This .zip contains 9 models:
+
+- Sd.Kfz.234 Puma (1 model with a beige paint, 1 model with a green camo paint), prop_static;
+
+- Sd.Kfz.234 Puma posed with the turret and wheels turned sideways (1 model with a beige paint, 1 model with a green camo paint), prop_static;
+
+- Sd.Kfz.234 Puma destroyed (1 model with a beige paint, 1 model with a green camo paint), prop_static;
+
+- 3 gibs (prop_physics) that can be used in a detonation setup.
+
+The tri counts and LODs are as follow:
+
+- main model and posed version:	
+
+distance/tris
+0/10456
+30/9034
+50/6933
+80/3677
+120/2577
+
+- destroyed version:
+
+distance/tris
+0/8500
+35/7246
+60/5912
+80/3622
+120/2646
+
+All the models use one 2048*2048 texture (the main version and the posed version share the same one). The gibs share a unique 1024*512 texture. The ammo box uses a texture from Valve. The wheels are based on the wheel texture from the Sd.Kfz.222 by Valve. 
+
+Also included are objective icons depicting the vehicle.
+
+
+
+Author: Cpt Ukulele
+theuke2@gmail.com

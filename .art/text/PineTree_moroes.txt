@@ -1,0 +1,32 @@
+=============================
+PineTree Models -  by moroes
+=============================
+
+MOdels Details
+===============
+
+File Name  : - pine_tree.mdl
+	     - pine_tree_little.mdl
+	     - pine_tree_med.mdl
+	     - pine_tree_medbreak.mdl
+Game       : All Source Game
+Designer   : moroes		
+E-mail     : be-moroes@hotmail.com
+Web Site   : http://www.bidoulmarc.be
+
+Installation Instructions
+=========================
+
+Place the files in your
+Day of Defeat Source maps directory:
+
+C:\Program Files\Steam\SteamApps\ACCOUNT-NAME\day of defeat source\
+
+Comments
+========
+
+You can use it where you want!
+You'll find two skins (Winter & Summer).
+Just don't forget to credit me! 
+
+Thanks and good mapping.

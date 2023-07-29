@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "shiroko/ot_railwood"
+	"$translucent" 1
+	"$surfaceprop" "wood"
+	// "$bumpmap" "shiroko/ot_railwoodnormal"
+}

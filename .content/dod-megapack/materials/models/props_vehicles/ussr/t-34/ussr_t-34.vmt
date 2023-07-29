@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/props_vehicles/ussr/t-34/ussr_t-34
+	$bumpmap models/props_vehicles/ussr/t-34/ussr_t-34_normal
+
+	$alphatest 1
+
+}

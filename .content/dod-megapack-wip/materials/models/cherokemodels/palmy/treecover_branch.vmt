@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/cherokemodels/palmy/treecover_branch"
+"$bumpmap" "models/cherokemodels/palmy/treecover_branch_NM"
+"$surfaceprop" "wood"
+"$alphatest" 1
+"$model" 1
+"$normalmapalphaenvmapmask" 1
+//	"$envmaptint" "[.5 .5 .5]"
+}

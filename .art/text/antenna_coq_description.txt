@@ -1,0 +1,4 @@
+This .zip contains a model of a weather cock. 400 tris. Uses Valve's antenna model and texture as a base. Can only be used in DoD:S.
+
+Author: Cpt Ukulele
+theuke2@gmail.com

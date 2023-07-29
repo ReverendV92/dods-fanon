@@ -1,0 +1,8 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/models_kit/furniture_couch"
+	"$surfaceprop" "ceiling_tile"
+ 	"$envmap" "env_cubemap"
+	"$envmapmask" "models/models_kit/furniture_couch_spec.vtf"
+
+}
